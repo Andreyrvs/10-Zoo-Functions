@@ -20,6 +20,5 @@ function countAnimals(animal) {
     return saveSex === animalAtual.sex ? acc + 1 : acc;
   }, 0);
 }
-console.log(countAnimals({ specie: 'lions', sex: 'female' }));
 
 module.exports = countAnimals;
