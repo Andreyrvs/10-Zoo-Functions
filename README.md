@@ -15,9 +15,16 @@ Aplicação:
 
 ## Instalando Dependências
 
-```bash
-npm install
-```
+* clone o repositorio
+
+  ```bash
+    git clone git@github.com:Andreyrvs/zoo-functions.git
+  ```
+
+* instale as dependências:
+  ```bash
+    npm install
+  ```
 
 ## Executando Testes
 
