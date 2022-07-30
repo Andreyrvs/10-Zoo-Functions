@@ -1,16 +1,28 @@
-# 🚧 README em construção 🚧
+# Zoo Functions
 
-<!-- Olá, Tryber!
+> Eu desenvolvi os arquivos que estão em `src/` e `README.md`.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+* Todos arquivos exeto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/).
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Contexto
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Desenvolvi uma aplicação para gerenciar um zoológico.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Técnologias usadas
 
--->
+Aplicação:
+> Desenvolvido usando: JavaScript ES6
+
+## Instalando Dependências
+
+```bash
+npm install
+```
+
+## Executando Testes
+
+* Para rodar os testes de linter:
+
+  ```bash
+    npm run lint
+  ```
