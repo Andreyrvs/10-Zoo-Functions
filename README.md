@@ -1,12 +1,12 @@
 # Zoo Functions
 
+## Contexto
+
+Este projeto é uma simulação de sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
+
 > Eu desenvolvi os arquivos que estão em `src/` e `README.md`.
 
 * Todos arquivos exeto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/).
-
-## Contexto
-
-Desenvolvi uma aplicação para gerenciar um zoológico.
 
 ## Técnologias usadas
 
@@ -15,21 +15,15 @@ Aplicação:
 
 ## Instalando Dependências
 
-* clone o repositorio
+* clone o projeto:
 
   ```bash
-    git clone git@github.com:Andreyrvs/zoo-functions.git
+  git clone git@github.com:Andreyrvs/10-Zoo-Functions.git
   ```
 
-* instale as dependências:
-  ```bash
-    npm install
-  ```
-
-## Executando Testes
-
-* Para rodar os testes de linter:
+  > Aplicação
 
   ```bash
-    npm run lint
+  cd 10-Zoo-Functions
+  npm install
   ```
