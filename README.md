@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este projeto é uma simulação de sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
+Este projeto simula um sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
 
 > Eu desenvolvi os arquivos que estão em `src/` e `README.md`.
 
